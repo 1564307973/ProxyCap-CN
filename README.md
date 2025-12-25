@@ -1,27 +1,13 @@
 <div align="center">
-  <img src="https://www.proxycap.com/images/top_logo_i.gif" alt="ProxyCap" style="width:64px; margin-bottom: 10px;" />
-  <h1 style="background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3rem; margin: 0;">
-    ProxyCap-CN
-  </h1>
-  <p style="color: #666; font-size: 1.2rem;">🚀 Chinese Localization of ProxyCap</p>
-  
-  <div style="margin: 20px 0;">
-    <a href="https://github.com/1564307973/ProxyCap-CN/releases"><img src="https://img.shields.io/github/v/release/1564307973/ProxyCap-CN?style=for-the-badge&logo=github&color=blue" alt="Release"></a>
-    <a href="https://github.com/1564307973/ProxyCap-CN/blob/main/LICENSE"><img src="https://img.shields.io/github/license/1564307973/ProxyCap-CN?style=for-the-badge&logo=mit&color=green" alt="License"></a>
-    <a href="https://github.com/1564307973/ProxyCap-CN/stargazers"><img src="https://img.shields.io/github/stars/1564307973/ProxyCap-CN?style=for-the-badge&logo=github&color=yellow" alt="Stars"></a>
-    <a href="https://github.com/1564307973/ProxyCap-CN/forks"><img src="https://img.shields.io/github/forks/1564307973/ProxyCap-CN?style=for-the-badge&logo=github&color=purple" alt="Forks"></a>
-    <a href="https://github.com/1564307973/ProxyCap-CN/issues"><img src="https://img.shields.io/github/issues/1564307973/ProxyCap-CN?style=for-the-badge&logo=github&color=red" alt="Issues"></a>
-  </div>
-  
-  <pre style="background: #000; color: #0f0; padding: 10px; border-radius: 5px; font-size: 0.8rem; overflow-x: auto; max-width: 600px;">
-██████╗ ██████╗ ███╗   ██╗███████╗██╗  ██╗    ██████╗  █████╗ ███████╗███████╗
-██╔══██╗██╔══██╗████╗  ██║██╔════╝██║  ██║    ██╔══██╗██╔══██╗██╔════╝██╔════╝
-██████╔╝██████╔╝██╔██╗ ██║█████╗  ███████║    ██████╔╝███████║███████╗█████╗  
-██╔═══╝ ██╔══██╗██║╚██╗██║██╔══╝  ██╔══██║    ██╔══██╗██╔══██║╚════██║██╔══╝  
-██║     ██║  ██║██║ ╚████║███████╗██║  ██║    ██████╔╝██║  ██║███████║███████╗
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝
-  </pre>
+  <h1>ProxyCap-CN</h1>
+  <img src="https://www.proxycap.com/images/top_logo_i.gif" alt="ProxyCap Logo" style="width: 128px; margin: 20px 0;" />
 </div>
+
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/1564307973/ProxyCap-CN)
+[![GitHub issues](https://img.shields.io/github/issues/1564307973/ProxyCap-CN)](https://github.com/1564307973/ProxyCap-CN/issues)
+[![GitHub forks](https://img.shields.io/github/forks/1564307973/ProxyCap-CN)](https://github.com/1564307973/ProxyCap-CN/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/1564307973/ProxyCap-CN)](https://github.com/1564307973/ProxyCap-CN/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/1564307973/ProxyCap-CN)](https://github.com/1564307973/ProxyCap-CN/watchers)
 
 ## Language Options
 
@@ -38,11 +24,9 @@ ProxyCap-CN is the Chinese localization version of [ProxyCap](https://www.proxyc
 
 ---
 
-## Quick Start
+## Usage Instructions
 
-### Installation Steps
-
-The usage method of the localized file is to copy the `pcapui.exe` file to the installation directory such as "D:\Program Files\Proxy Labs\ProxyCap" and overwrite the same name file to complete the localization.
+To use the localized file, copy the `pcapui.exe` file to the installation directory, such as "D:\Program Files\Proxy Labs\ProxyCap", and overwrite the existing file to complete the localization.
 
 ---
 
@@ -52,32 +36,17 @@ The usage method of the localized file is to copy the `pcapui.exe` file to the i
 
 ---
 
-## About ProxyCap
+## Official Download Link
 
-ProxyCap enables you to redirect your computer's network connections through proxy servers. You can tell ProxyCap which applications will connect to the Internet through a proxy and under what circumstances. This is done through a user friendly interface, without the need to reconfigure any of your Internet clients. ProxyCap has native support for the SSH protocol, allowing you to specify a SSH server as the proxy server.
+`https://www.proxycap.com/download.html`
 
-### Key Features
+## License Purchase Link
 
-- Support for SOCKS, Shadowsocks and HTTPS proxy servers
-- Built-in support for SSH tunneling
-- Support for "pure" HTTP proxying
-- Support for TCP- and UDP-based network protocols
-- Proxy-side DNS support
-- Flexible routing rules
-- Support for proxy chains
-- Support for 64-bit applications
-- IPv6 support
-- Support for Single Sign-On (SSO)
-- Built-in proxy checker
-- Centralized management support
+`https://www.proxycap.com/btc-order.html`
 
----
+## Software Homepage
 
-## Official Resources
-
-- **Download**: [https://www.proxycap.com/download.html](https://www.proxycap.com/download.html)
-- **License Purchase**: [https://www.proxycap.com/btc-order.html](https://www.proxycap.com/btc-order.html)
-- **Homepage**: [https://www.proxycap.com/index.html](https://www.proxycap.com/index.html)
+`https://www.proxycap.com/index.html`
 
 ## Official Changelog
 
@@ -85,16 +54,14 @@ ProxyCap enables you to redirect your computer's network connections through pro
 
 ---
 
-## Disclaimer
+## Notes
 
-This localization project is created solely to help Chinese users better understand and use ProxyCap. It does not provide any software activation services, cracks, or patches. If you find this software useful, please support the original developers by purchasing a legitimate license.
+This project only provides Chinese localization services for ProxyCap software, making it more convenient for Chinese users. This project does not involve any cracking, modification, or bypassing of software authorization mechanisms.
+
+If you find ProxyCap software useful, please support the official version by purchasing a license through official channels.
 
 ---
 
-<div align="center">
+## Project Address
 
-**🌟 Thanks for your attention and support!**
-
-[![GitHub stars](https://img.shields.io/github/stars/1564307973/ProxyCap-CN?style=social)](https://github.com/1564307973/ProxyCap-CN/stargazers)
-
-</div>
+`https://github.com/1564307973/ProxyCap-CN`
