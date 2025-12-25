@@ -1,11 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <h1 style="margin: 0;">
-    <img src="https://www.proxycap.com/images/top_logo_i.gif" alt="ProxyCap" style="width:32px; vertical-align:middle; margin-right: 5px;">
-    ProxyCap-CN
-  </h1>
-</div>
+<h1 style="margin: 0;">ProxyCap-CN</h1>
 
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/1564307973/ProxyCap-CN)
+<img src="https://www.proxycap.com/images/top_logo_i.gif" alt="ProxyCap" style="width:128px;">[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/1564307973/ProxyCap-CN)
 [![issues](https://img.shields.io/github/issues/1564307973/ProxyCap-CN)](https://github.com/1564307973/ProxyCap-CN/issues)
 [![forks](https://img.shields.io/github/forks/1564307973/ProxyCap-CN)](https://github.com/1564307973/ProxyCap-CN/network/members)
 [![stars](https://img.shields.io/github/stars/1564307973/ProxyCap-CN)](https://github.com/1564307973/ProxyCap-CN/stargazers)
@@ -34,7 +29,7 @@ ProxyCap-CN is a localized Chinese version of ProxyCap, designed to help users i
 
 ## Screenshots
 
-![Screenshot](屏幕截图 2025-12-25 214733.png)
+![Screenshot](screenshot.png)
 
 ## Official Resources
 
@@ -68,7 +63,3 @@ ProxyCap enables you to redirect your computer's network connections through pro
 ## Disclaimer
 
 This localization project is created solely to help Chinese users better understand and use ProxyCap. It does not provide any software activation services, cracks, or patches. If you find this software useful, please support the original developers by purchasing a legitimate license.
-
-## Project Link
-
-[https://github.com/1564307973/ProxyCap-CN](https://github.com/1564307973/ProxyCap-CN)

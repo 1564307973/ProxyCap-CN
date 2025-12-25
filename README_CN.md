@@ -1,11 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <h1 style="margin: 0;">
-    <img src="https://www.proxycap.com/images/top_logo_i.gif" alt="ProxyCap" style="width:32px; vertical-align:middle; margin-right: 5px;">
-    ProxyCap-CN
-  </h1>
-</div>
+<h1 style="margin: 0;">ProxyCap-CN</h1>
 
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/1564307973/ProxyCap-CN)
+<img src="https://www.proxycap.com/images/top_logo_i.gif" alt="ProxyCap" style="width:128px;">[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/1564307973/ProxyCap-CN)
 [![issues](https://img.shields.io/github/issues/1564307973/ProxyCap-CN)](https://github.com/1564307973/ProxyCap-CN/issues)
 [![forks](https://img.shields.io/github/forks/1564307973/ProxyCap-CN)](https://github.com/1564307973/ProxyCap-CN/network/members)
 [![stars](https://img.shields.io/github/stars/1564307973/ProxyCap-CN)](https://github.com/1564307973/ProxyCap-CN/stargazers)
@@ -34,7 +29,7 @@ ProxyCap-CN 是 ProxyCap 的中文本地化版本，旨在帮助中国用户更�
 
 ## 界面截图
 
-![截图](屏幕截图 2025-12-25 214733.png)
+![截图](screenshot.png)
 
 ## 官方资源
 
@@ -70,7 +65,3 @@ ProxyCap 可以让你将计算机的网络连接通过代理服务器进行转�
 ## 免责声明
 
 本本地化项目仅为帮助中国用户更好地理解和使用 ProxyCap 而创建，不提供任何软件激活服务、破解或补丁。如果觉得本软件有用，请通过购买官方许可来支持原开发者。
-
-## 项目地址
-
-[https://github.com/1564307973/ProxyCap-CN](https://github.com/1564307973/ProxyCap-CN)
