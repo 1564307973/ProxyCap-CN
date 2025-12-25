@@ -1,6 +1,6 @@
 <div align="center">
   <h1>ProxyCap-CN</h1>
-  <img src="https://www.proxycap.com/images/top_logo_i.gif" alt="ProxyCap Logo" style="width: 128px; margin: 20px 0;" />
+  <img src="https://www.proxycap.com/images/top_logo_i.gif" alt="ProxyCap Logo" style="margin: 20px 0;" />
 </div>
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/1564307973/ProxyCap-CN)
